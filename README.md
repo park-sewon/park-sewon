@@ -1,4 +1,4 @@
-Hi I am Sewon. Please visit my personal website https://sewonpark.com for more information about me.
+Hi I am Sewon. Visit my personal website https://sewonpark.com for more infomation about me.
 
 <!---
 park-sewon/park-sewon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
